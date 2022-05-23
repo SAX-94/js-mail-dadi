@@ -1,0 +1,18 @@
+body {
+    background-color: #52b69a;
+    color: white;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.page-cont {
+    height: 100vh;
+}
+
+.custom-box {
+    background-color: #b5e48c;
+    border-radius: 21px;
+    box-shadow: 0 0 8px 12px #d9ed92;
+}
