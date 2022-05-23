@@ -7,6 +7,10 @@ h1 {
     font-weight: bolder;
 }
 
+h1, h6 {
+    color: #168aad;
+}
+
 .page-cont {
     height: 100vh;
 }
