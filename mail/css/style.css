@@ -16,3 +16,7 @@ h1 {
     border-radius: 21px;
     box-shadow: 0 0 8px 12px #d9ed92;
 }
+
+#textEmail {
+    width: 23rem;
+}
