@@ -1,0 +1,30 @@
+body {
+    background-color: #a80d08;
+}
+
+h1 {
+    color: white;
+}
+
+h1, h3, h5 {
+    font-weight: bolder;
+}
+
+.page-cont {
+    height: 100vh;
+}
+
+.custom-box {
+    background-color: #118e64;
+    border-radius: 22px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .4);
+    height: 55%;
+}
+
+.content {
+    width: 100%;
+}
+
+.content aside {
+    width: 20%;
+}
