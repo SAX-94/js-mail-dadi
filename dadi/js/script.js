@@ -1,3 +1,4 @@
+// @ts-nocheck
 /* Lo script eve generare due numeri random compresi fra 1 e 6.
 Il numero più alto vince. */
 
@@ -29,7 +30,8 @@ btnLancia.addEventListener("click", function () {
                             <h3><span class="badge bg-danger">${dadoPC}</span></h3>
                         </aside>
                         <section id="center" class="text-center">
-                        <h1><span class="badge bg-danger">${verdict}</span></h1>                        
+                        <h1><span class="badge bg-danger">${verdict}</span></h1>
+                        <h5>${countDefeats} - ${countWin}</h5>
                         </section>
                         <aside id="right" class="text-center">
                             <h3>Tu</h3>
